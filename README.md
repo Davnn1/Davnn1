@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Davin</h1>
-<h3 align="center">A passionate Software and Application developer from Indonesia</h3>
+<h3 align="center">A passionate Software and Application developer from Indonesia</h3><br>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🌱 I’m currently learning **Flutter framework, Laravel framework**
-
+- 🔭 I’m currently working on [HotelsAPP]()
+- 🌱 I’m currently learning **Dart, Flutter framework & Laravel framework**
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1rGHa3sACvnpJZb86rSwukqIz4khxoZs7/view?usp=sharing)
-
+- 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/davnn/)
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/davnn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davnn1" height="30" width="40" /></a>
 <a href="https://instagram.com/davnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davnn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>  
@@ -62,6 +63,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davnn1&layout=compact)](https://github.com/Davnn1/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Davnn1&" alt="davin" /></p>

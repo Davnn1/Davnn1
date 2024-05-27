@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Software and Application developer from Indonesia</h3><br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🔭 I’m currently working on [HotelsAPP]()
-- 🌱 I’m currently learning **Dart, Flutter framework & Laravel framework**
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1rGHa3sACvnpJZb86rSwukqIz4khxoZs7/view?usp=sharing)
-- 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/davnn/)
+- 🔭 I’m currently working on [Portoku-Web-App]()
+- 🌱 I’m currently learning **Java, Spring framework & Vue framework**
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1XTxCLOIG8ES7qIiEI5lH7UoxlZ-cDnRa/view?usp=sharing)
+- 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/davnn/) or [Linkedin](https://www.linkedin.com/in/davnn1/)
 - ⚡ Fun fact **I am funny**
 
 ### Connect with me:

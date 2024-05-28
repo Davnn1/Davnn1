@@ -83,6 +83,6 @@
 
 
 ### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davnn1&layout=compact)](https://github.com/Davnn1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davnn1&layout=compact)]()
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Davnn1&" alt="davin" /></p>
